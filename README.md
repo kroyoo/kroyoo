@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <a href="https://github.com/kroyoo/kroyoo/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kroyoo&show_icons=true&theme=cobalt&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kroyoo&show_icons=true&theme=cobalt&count_private=true&line_height=40&include_all_commits=true" />
 </a>
 <a href="https://github.com/kroyoo/kroyoo/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kroyoo&layout=compact" />
