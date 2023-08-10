@@ -1,5 +1,5 @@
 <a href="https://github.com/kroyoo/kroyoo/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kroyoo&show_icons=true&theme=cobalt&count_private=true&line_height=20&include_all_commits=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kroyoo&show_icons=true&theme=cobalt&count_private=true&line_height=20&include_all_commits=true&year=2020" />
 </a>
 <a href="https://github.com/kroyoo/kroyoo/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kroyoo&layout=compact&line_height=45" />
